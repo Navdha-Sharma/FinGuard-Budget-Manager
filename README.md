@@ -1,4 +1,5 @@
 finguard_engine/
+
 1 .├── schemas.py      # Core data contracts, FSM enums, validation breakdowns, & telemetry
 
 2 ├── engine.py       # State engine, confidence gate evaluator, disk persistence & rehydration
